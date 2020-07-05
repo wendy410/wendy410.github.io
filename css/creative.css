@@ -208,7 +208,7 @@ header .header-content .header-content-inner p {
     margin-bottom: 50px;
     font-size: 30px;
     font-weight: 600;
-    color: rgba(255,255,255,.7); /*#A16EFF*/
+    color: rgba(255,255,255,.9); /*#A16EFF*/
 }
 
 @media(min-width:768px) {
