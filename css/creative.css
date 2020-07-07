@@ -220,16 +220,22 @@ header .header-content .header-content-inner p {
        0px -2px 3px #ffffff;
     animation-duration: 2s;
     animation-delay: 1s;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-delay: 1s;
 }
 
 #poi {
     animation-duration: .8s;
     animation-delay: 2.5s;
+    -webkit-animation-duration: .8s;
+    -webkit-animation-delay: 2.5s;
 }
 
 #poi2 {
     animation-duration: .8s;
     animation-delay: 1s;
+    -webkit-animation-duration: .8s;
+    -webkit-animation-delay: 1s;
 }
 
 @media(min-width:768px) {
