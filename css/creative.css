@@ -208,7 +208,16 @@ header .header-content .header-content-inner p {
     margin-bottom: 50px;
     font-size: 30px;
     font-weight: 600;
-    color: rgba(255,255,255,.9); /*#A16EFF*/
+    color: rgba(77,166,255,.8); /*#A16EFF*/
+	text-shadow: 
+       2px  2px 3px #ffffff,
+      -2px  2px 3px #ffffff,
+       2px -2px 3px #ffffff,
+      -2px -2px 3px #ffffff,
+       2px  0px 3px #ffffff,
+       0px  2px 3px #ffffff,
+      -2px  0px 3px #ffffff,
+       0px -2px 3px #ffffff;
 }
 
 @media(min-width:768px) {
