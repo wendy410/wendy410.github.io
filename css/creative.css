@@ -218,6 +218,18 @@ header .header-content .header-content-inner p {
        0px  2px 3px #ffffff,
       -2px  0px 3px #ffffff,
        0px -2px 3px #ffffff;
+    animation-duration: 2s;
+    animation-delay: 1s;
+}
+
+#poi {
+    animation-duration: .8s;
+    animation-delay: 2.5s;
+}
+
+#poi2 {
+    animation-duration: .8s;
+    animation-delay: 1s;
 }
 
 @media(min-width:768px) {
