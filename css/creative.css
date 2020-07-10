@@ -499,6 +499,18 @@ img::-moz-selection {
     background: 0 0;
 }
 
+.tooltip > .tooltip-inner {
+    background-color: #f17256; 
+    color: #FFFFFF; 
+    /* border: 1px solid green;  */
+    border-right: solid 520px transparent;
+    padding: 15px;
+  }
+
+.tooltip.bottom .tooltip-arrow{
+    border-bottom: 5px solid #f17256
+}
+
 body {
     webkit-tap-highlight-color: #222;
 }

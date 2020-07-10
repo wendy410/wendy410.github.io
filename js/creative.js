@@ -42,6 +42,16 @@
         }
     })
 
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip({
+            animated: 'fade',
+            placement: 'bottom',
+            html: true
+        }).on('click', function () {
+            $(this).tooltip('hide'); // smartphone
+        });
+    })
+
     // $('#watch').on({
     //     'mouseenter': function () {
 
