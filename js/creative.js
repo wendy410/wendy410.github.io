@@ -55,25 +55,25 @@
     $('#zui').on('click', function () {
         $.fancybox.open([
             {
-                src: 'https://cdn.wikiwiki.jp/to/w/kancolle/%E7%91%9E%E9%B3%B3%E6%94%B9%E4%BA%8C%E4%B9%99/::ref/360_2nd.jpg',
+                src: '../img/data/z2o.jpg',
                 opts: {
                     caption: '<p>「ぎゅぅう～っと、もっと頑張ります！」</p>'
                 }
             },
             {
-                src: 'https://cdn.wikiwiki.jp/to/w/kancolle/%E7%91%9E%E9%B3%B3/::ref/112_2nd.jpg',
+                src: '../img/data/z.jpg',
                 opts: {
                     caption: '<p>「瑞鳳です。軽空母ですが、練度があがれば、正規空母並の活躍をおみせできます。」</p>'
                 }
             },
             {
-                src: 'https://cdn.wikiwiki.jp/to/w/kancolle/%E7%91%9E%E9%B3%B3%E6%94%B9/::ref/113_2nd.jpg',
+                src: '../img/data/zk.jpg',
                 opts: {
                     caption: '<p>♡♡おべんと、食べる？♡♡</p>'
                 }
             },
             {
-                src: 'https://cdn.wikiwiki.jp/to/w/kancolle/%E7%91%9E%E9%B3%B3%E6%94%B9%E4%BA%8C/::ref/355_2nd.jpg',
+                src: '../img/data/z2.jpg',
                 opts: {
                     caption: '<p>「大規模改装、しちゃいました！」</p>'
                 }
@@ -93,19 +93,19 @@
     $('#sg').on('click', function () {
         $.fancybox.open([
             {
-                src: 'https://cdn.wikiwiki.jp/to/w/kancolle/%E6%99%82%E9%9B%A8%E6%94%B9%E4%BA%8C/::ref/145_2nd.jpg',
+                src: '../img/data/s2.jpg',
                 opts: {
                     caption: '<p>「ありがとう。少し、強くなれたみたいだ。」</p>'
                 }
             },
             {
-                src: 'https://cdn.wikiwiki.jp/to/w/kancolle/%E6%99%82%E9%9B%A8/::ref/080_2nd.jpg',
+                src: '../img/data/s.jpg',
                 opts: {
                     caption: '<p>「僕は白露型駆逐艦、時雨。これからよろしくね。」</p>'
                 }
             },
             {
-                src: 'https://cdn.wikiwiki.jp/to/w/kancolle/%E6%99%82%E9%9B%A8%E6%94%B9/::ref/080b_2nd.jpg',
+                src: '../img/data/sk.jpg',
                 opts: {
                     caption: '<p>「僕に興味があるの？...いいよ、何でも聞いてよ。」</p>'
                 }
